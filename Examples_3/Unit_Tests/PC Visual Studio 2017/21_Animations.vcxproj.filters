@@ -25,9 +25,7 @@
     <FSLShader Include="..\src\21_Animations\Shaders\FSL\plane.frag.fsl">
       <Filter>Shaders\FSL</Filter>
     </FSLShader>
-    <FSLShader Include="..\src\21_Playback\Shaders\FSL\ShaderList.fsl">
-      <Filter>Shaders</Filter>
-    </FSLShader>
+    <FSLShader Include="..\src\21_Animations\Shaders\FSL\ShaderList.fsl" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\21_Animations\21_Animations.cpp">

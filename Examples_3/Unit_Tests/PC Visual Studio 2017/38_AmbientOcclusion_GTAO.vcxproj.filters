@@ -56,6 +56,7 @@
     <FSLShader Include="..\src\38_AmbientOcclusion_GTAO\Shaders\FSL\Triangular.vert.fsl">
       <Filter>Shaders\FSL</Filter>
     </FSLShader>
+    <FSLShader Include="..\src\38_AmbientOcclusion_GTAO\Shaders\FSL\ShaderList.fsl" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\38_AmbientOcclusion_GTAO\Shaders\FSL\packing.h">
